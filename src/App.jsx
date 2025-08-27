@@ -393,7 +393,7 @@ function App() {
       <div className="mx-auto max-w-screen-2xl">
         <header className="mb-8 flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold text-slate-800 md:text-4xl">FilmFlow</h1>
+            <h1 className="text-3xl font-bold text-slate-800 md:text-4xl">M Film's</h1>
             <p className="mt-1 text-slate-500">Gestão Inteligente de Estoque e Vendas</p>
           </div>
         </header>
